@@ -15,7 +15,7 @@
 
 Desktop version | Mobile version
 -------------------- | ----------------------
-
+|
 ---
 ## Instructions 💗
 
