@@ -1,8 +1,8 @@
 ![MyPortfolio](https://img.shields.io/badge/My-Porfolio-pink)![Portfolio](https://img.shields.io/github/followers/sheylaPozo?style=social)
 
-## My Portfolio
+## My Portfolio 💗
 
-## Built With 
+## Built With  💗
 
 ---
 
@@ -17,11 +17,11 @@ Desktop version | Mobile version
 -------------------- | ----------------------
 
 ---
-## Instructions
+## Instructions 💗
 
 To get a local copy up and running follow these simple sample steps.
 
-## Getting Started
+## Getting Started 💗
 
 To get the content of this project locally you need to run this command on your terminal :
 
@@ -29,17 +29,17 @@ To get the content of this project locally you need to run this command on your 
 
 - ` git clone git@github.com:sheylaPozo/Porfolio.git `
 
-### Install
+### Install 💗
 
 - Set up liveserver as an extension in your VS Code.
 - If you don't have the live server extension, or are using another software just view directly in your browser.
 
-### Usage
+### Usage 💗
 
 - Right click on "Go Live" in your VScode to view in your browser.
 - If you don't have live server extension right click on the index.html to view in browser.
 
-## Test
+## Test 💗
 
 For tracking linter errors locally you need to follow these steps:
 
@@ -56,7 +56,7 @@ For tracking linter errors locally you need to follow these steps:
   > `npx stylelint "\*_/_.{css,scss}"`
 
 
-## Author:
+## 💗 Author:
 
 👤 **Sheyla Pozo** 💖
 
@@ -67,7 +67,7 @@ For tracking linter errors locally you need to follow these steps:
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing 🥰
 
 Contributions, issues, and feature requests are welcome!
 
@@ -75,11 +75,11 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/sheylaPozo/newPorfolio/issues).
 
 
-## Show your support
+## Show your support 💪😄
 
 Give a ⭐️ if you like this project!
 
-## 💖 Acknowledgments
+## Acknowledgments 🌱
 
 - Hat tip to anyone whose code was used
 - Inspiration
