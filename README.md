@@ -2,11 +2,6 @@
 
 ## My Portfolio 💖
 
-# Module 1 : "Portfolio" 
----
-
-> This project is part of Microverse's The Portal part of the curriculum. and it's been built with Html 5 and CSS, as part of Microverse 2.0 curriculum.
-
 ## 💖 Built With 
 
 ---
