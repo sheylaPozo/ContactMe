@@ -1,4 +1,4 @@
-![MyPortfolio](https://img.shields.io/badge/My-Porfolio-pink)![Portfolio](https://img.shields.io/github/followers/sheylaPozo?style=social)
+![My contact me page](https://img.shields.io/badge/My-Porfolio-pink)![Portfolio](https://img.shields.io/github/followers/sheylaPozo?style=social)
 
 ## Contact Me 💗
 
