@@ -10,9 +10,9 @@ const AboutPage = () => (
         <h1 className="font-colour">About me</h1>
       </header>
       <p className="text-light">
-        Hello I’m a Sheyla Pozo a Full stack Developer and a software Engineer, I can help you build and design your desired website or product ,
-        mobile app, or website. I invite you to Look through some of my work and experience! If
-        you like what you see and have a project you need coded, don’t hestiate to contact me.
+        Hello I’m a Full stack Developer, I can help you build and design your desired product,
+        feature, or website. Look through some of my work and experience! 
+        If you like what you see and have a project you need coded, don’t hestiate to contact me.
       </p>
       <a href="https://drive.google.com/file/d/1SE-9z8-ffq3kwDtHJaCtRoOgQdhf2loa/view?usp=sharing" target="_blank" rel="noreferrer">
         <input type="button" className="p-2 link-btn text-light resume" value="view my resume" />
@@ -21,7 +21,7 @@ const AboutPage = () => (
     <section className="skills d-flex flex-column">
       <Languages languages={['JavaScript', 'Ruby', 'HTML', 'CSS']} />
       <Frameworks frameworks={['BootStrap', 'ReactJS', 'Ruby on Rails', 'RSpec']} />
-      <Skills skills={['GitHub','Git', 'Bash', 'Gitlab','VScode','Terminal', 'Team Work', 'Pair Progamming']} />
+      <Skills skills={['GitHub', 'Git', 'Bash', 'Gitlab', 'VScode', 'Terminal', 'Team Work', 'Pair Progamming']} />
     </section>
   </div>
 );

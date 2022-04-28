@@ -60,7 +60,7 @@ const projects = [
     description: 'A mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.',
     live_demo: 'https://budgetapps.herokuapp.com/',
     source_code: 'https://github.com/sheylaPozo/budgetapp',
-    image: everyKwacha,
+    image: 'https://repository-images.githubusercontent.com/434039976/d836d24d-d3e0-454b-bbde-5fc96ad2ee3c',
     languages: ['Ruby', 'RoR', 'CSS', 'BootStrap'],
   },
 ];
