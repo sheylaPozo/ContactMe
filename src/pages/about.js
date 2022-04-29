@@ -10,10 +10,10 @@ const AboutPage = () => (
         <h1 className="font-colour">About me</h1>
       </header>
       <p className="text-light">
-        Hello I’m a Full stack Developer, I can help you build and design your desired product,
-        feature, or website. Look through some of my work and experience! 
-        If you like what you see and have a project you need coded, 
-        don’t hestiate to contact me.
+        Hello I’m a Web developer! I can help you build and design a product ,
+        feature or website Look through some of my work and experience! 
+        If you like what you see and have a project you need coded, don’t
+        hestiate to contact me.
       </p>
       <a href="https://drive.google.com/file/d/1SE-9z8-ffq3kwDtHJaCtRoOgQdhf2loa/view?usp=sharing" target="_blank" rel="noreferrer">
         <input type="button" className="p-2 link-btn text-light resume" value="view my resume" />
