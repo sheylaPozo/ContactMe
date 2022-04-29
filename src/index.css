@@ -130,7 +130,8 @@ code {
 
 .icon:hover,
 .icon_second:hover {
-  color: rgb(247, 35, 201);
+  background-image: linear-gradient(45deg, #15b990ef, #b942a6);
+  color: rgb(162, 39, 173);
 }
 
 .lang {
