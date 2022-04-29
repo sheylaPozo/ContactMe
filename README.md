@@ -2,12 +2,15 @@
 
 ## Contact Me 💗
 
+[Live Demo]()
+
 ## Built With  💗
 
 ---
 
 - HTML
 - CSS
+- ReactJs
 
 ---
 
@@ -51,10 +54,6 @@ For tracking linter errors locally you need to follow these steps:
 - For tracking any linter errors in HTML file run:
 
   > `npx hint .`
-
-- And for tracking linter errors in CSS file run:
-  > `npx stylelint "\*_/_.{css,scss}"`
-
 
 ## 💗 Author:
 
