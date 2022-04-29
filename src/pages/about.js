@@ -10,8 +10,8 @@ const AboutPage = () => (
         <h1 className="font-colour">About me</h1>
       </header>
       <p className="text-light">
-        Hello I’m a Web developer! I can help you build and design a product ,
-        feature or website Look through some of my work and experience! 
+        Hello I’m a Web developer! I can help you build and design a product,
+        feature or website Look through some of my work and experience!
         If you like what you see and have a project you need coded, don’t
         hestiate to contact me.
       </p>
