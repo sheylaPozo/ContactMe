@@ -6,7 +6,7 @@ import { IoMdMail } from 'react-icons/io';
 
 const HomePage = () => (
   <div className="homemain" id="homePage">
-    <img src="https://user-images.githubusercontent.com/54015740/128003276-cb5b205d-e69b-4a4a-a17c-4295d55dd338.jpg" alt="profilephoto" className="profile-image">
+    <img src="https://user-images.githubusercontent.com/54015740/128003276-cb5b205d-e69b-4a4a-a17c-4295d55dd338.jpg" alt="profilephoto" className="profile-image"/>
     <section className="intro">
       <header>
         <h1 className="font-colour">Hey there!</h1>
