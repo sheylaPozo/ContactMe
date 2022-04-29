@@ -14,11 +14,12 @@
 
 ---
 
-*💛 Portfolio Preview image💛*
+*💓 Portfolio Preview image 🥰*
 
 Desktop version | Mobile version
 -------------------- | ----------------------
-|
+![portfolio](https://user-images.githubusercontent.com/54015740/165890321-2e7ccae6-85c3-4b94-8816-f54d5f755762.png)|![mobile](https://user-images.githubusercontent.com/54015740/165890313-ee7ef637-08ca-4f5f-aaa2-8a414d49f7c9.png)
+
 ---
 ## Instructions 💗
 
