@@ -106,8 +106,9 @@ code {
 }
 
 .menu-link {
-  color: rgb(63, 12, 12);
-  font-size: 32px;
+  background-image: linear-gradient(45deg, #236e91, #bd5391);
+  color: #5d0d7c;
+  font-size: 50px;
 }
 
 .icon,
@@ -131,6 +132,7 @@ code {
 .icon:hover,
 .icon_second:hover {
   background-image: linear-gradient(45deg, #15b990ef, #b942a6);
+  color:transparent;
 }
 
 .lang {
