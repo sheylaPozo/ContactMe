@@ -7,7 +7,7 @@ const ContactPage = () => (
   <div className="contactmain" id="contactPage">
     <section className="outro">
       <header>
-        <h1 className="font-colour">Hey again!</h1>
+        <h1 className="font-colour">Contact me!</h1>
       </header>
       <p className="text-light">
         I&apos;m always interested in hearing
