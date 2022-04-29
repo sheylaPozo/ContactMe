@@ -7,7 +7,7 @@ const ContactPage = () => (
   <div className="contactmain" id="contactPage">
     <section className="outro">
       <header>
-        <h1 className="font-colour">Contact me!▽♡❀</h1>
+        <h1 className="font-colour">Contact me!❀</h1>
       </header>
       <p className="text-light">
         I&apos;m always interested in hearing
@@ -36,7 +36,7 @@ const ContactPage = () => (
           </a>
         </li>
       </ul>
-      <h5 className="font-colour mt-5">Write me a message ☺ here ㋡</h5>
+      <h5 className="font-colour mt-5">Write me a message ☺ ♡</h5>
       <form action="https://formspree.io/f/meqvkzyo" method="post" className="d-flex flex-column">
         <input name="text" className="form-input text-light mt-3" placeholder="Full name" required />
         <input name="email" className="form-input text-light mt-3" placeholder="Email" required />
