@@ -97,6 +97,7 @@ code {
 .menu-pop,
 .link-btn {
   background-image: linear-gradient(45deg, #8e4de2, #caec0d);
+  color: black;
 }
 
 .offcanvas-body {
