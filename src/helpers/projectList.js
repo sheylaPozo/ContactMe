@@ -36,7 +36,7 @@ const projects = [
     description: 'This app is a tool one can use in a library to record what books are in the library and who borrows them. This app will allow a you to: Add new students or teachers.Add new books. Save records of who borrowed a given book and when.',
     live_demo: '',
     source_code: 'https://github.com/sheylaPozo/schoolLibrary',
-    image: 'https://repository-images.githubusercontent.com/416720764/24feb8f9-bb60-45b0-b67e-a715b7a24253&quot',
+    image: 'https://repository-images.githubusercontent.com/416720764/24feb8f9-bb60-45b0-b67e-a715b7a24253',
     languages: ['Ruby', 'RSpec'],
   },
   {
