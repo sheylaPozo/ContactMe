@@ -14,7 +14,7 @@
 
 ---
 
-*💓 Portfolio Preview image 🥰*
+*💓 Portfolio Preview image 🥰🌱*
 
 Desktop version | Mobile version
 -------------------- | ----------------------
